@@ -17,9 +17,10 @@ os.system(['','color D'][os.name == 'nt'])
 print '''
                 SELAMAT DATANG
                      DI
-                ACEH CYBER TEAM
+                  Mr. Botax
            CODE: BY R15ky Ch4nn3L
-     FACEBOOK RECOVERY PASSWORD ATTACKER  
+     FACEBOOK RECOVERY PASSWORD ATTACKER
+  
  _____              _                 _
 |  ___|_ _  ___ ___| |__   ___   ___ | | __
 | |_ / _` |/ __/ _ \ '_ \ / _ \ / _ \| |/ /
